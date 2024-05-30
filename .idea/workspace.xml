@@ -4,38 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="184eb580-05c3-48ed-ba59-fcafd7d09fa8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/cc project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ecommerce/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ecommerce/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ecommerce/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ecommerce/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ecommerce/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/arrow-down.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/arrow-up.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/cart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/placeholder.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/templates/store/cart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/templates/store/checkout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/templates/store/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/templates/store/store.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/views.py" afterDir="false" />
+    <list default="true" id="184eb580-05c3-48ed-ba59-fcafd7d09fa8" name="Changes" comment="first">
+      <change afterPath="$PROJECT_DIR$/static/images/airpod.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/case.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/converse.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ipod.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/kanken.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/tshirt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/migrations/0002_product_image.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/templates/store/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/store/templates/store/cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/templates/store/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/store/templates/store/checkout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/templates/store/store.html" beforeDir="false" afterPath="$PROJECT_DIR$/store/templates/store/store.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +40,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ayssemacit"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ayssemacit/shopping-site",
+    "accountId": "c63eab36-55df-427a-9a43-5930b366b162"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
 }]]></component>
@@ -93,9 +92,20 @@
       <option name="presentableId" value="Default" />
       <updated>1717075458102</updated>
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <option name="closed" value="true" />
+      <created>1717084159415</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717084159415</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>
 </project>
