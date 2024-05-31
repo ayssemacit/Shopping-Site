@@ -81,7 +81,7 @@ def processOrder(request):
 
     if total == order.get_cart_total:
         order.complete = True
-    order.save()
+        order.save()
 
     if order.shipping == True:
         ShippingAddress.objects.create(
